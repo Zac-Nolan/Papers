@@ -1,8 +1,9 @@
 # Authors
 Zac Nolan
+John Smith
 
 #Title
-Secondary organic aerosol measurments over west Africa.
+Model-measurments of Secondary organic aerosol measurments over west Africa.
 
 #Introduction
 We present measurements of SOA from aircraft over west Africa.
