@@ -24,3 +24,8 @@ We got valuable insight into the partcile formation preocess
 
 #Conclusions
 Aren't we great we foung out some stuff.
+
+#Figures
+This is where the figurtes go
+- fig 1
+- fig 2
